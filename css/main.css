@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+h2{
+    font size: 12px;
+    font-family: 'Poppins', sans-serif;
+    color: blue;
+    
+}
+.programarindex{
+    width:45vw;
+    height:30vh;
+}
+p{
+    font size: 10px;
+    font-family: 'Poppins', sans-serif;
+}
